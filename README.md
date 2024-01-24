@@ -1,7 +1,7 @@
 # Overview
 This repository contains the source code and CAD files for a **6 Degree of Freedom Manipulator with a Mobile Base**. The manipulator is equipped with a vacuum gripper for pick and place operations and object manipulation. The project involved utilizing SolidWorks for creating a 3D model, implementing an inverse kinematics script in Python within the ROS2 framework, and validating the manipulator's performance through simulations in the Gazebo environment.
 <br>
-Image
+![manipulator](https://drive.google.com/file/d/1JZFe_RIiBJRFTksGy6gD7WWX8M3ZJapW/view?usp=sharing)
 <br>
 ## Installation
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
